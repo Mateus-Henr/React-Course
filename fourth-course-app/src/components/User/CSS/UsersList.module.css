@@ -1,0 +1,30 @@
+.users {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.users ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.users li {
+  border: 1px solid #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
+
+.card {
+  padding: 0px;
+  background: #1f1f1f;
+  box-shadow: 0px;
+  border-radius: 0px;
+}
+
+.noValues {
+  color: white;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
